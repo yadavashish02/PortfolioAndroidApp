@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "287838740282",
+    "project_id": "portfolio-247a5",
+    "storage_bucket": "portfolio-247a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287838740282:android:3b3d72032ef6c5300cfa03",
+        "android_client_info": {
+          "package_name": "com.hitmeows.portfolio_yadav_ashish_02"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287838740282-sa0sfken3590n1l5duqal76pn0vbsplt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX_dI4vpCE2_7I4XHhmGEtJYyURgzpKSY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "287838740282-sa0sfken3590n1l5duqal76pn0vbsplt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

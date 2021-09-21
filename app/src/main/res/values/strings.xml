@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ashish Yadav Portfolio</string>
+    <string
+        name="viewSourceCode"><a href="https://www.github.com/">View Source Code</a></string>
+</resources>
